@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974358000500",
+    "project_id": "road-devfest2022",
+    "storage_bucket": "road-devfest2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974358000500:android:a4e9a5a2bfb40637fa7221",
+        "android_client_info": {
+          "package_name": "com.example.app_road_to_devfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974358000500-9pah5h58krj9rvqhn5al3ukuvrbl04qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8V9b_VRoacFGsbqTUgHLpXmTfCa_Xbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974358000500-9pah5h58krj9rvqhn5al3ukuvrbl04qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
